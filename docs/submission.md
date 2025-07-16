@@ -163,12 +163,12 @@ All student groups must submit their entire project repository in phases, with a
 
 ### **Step 2: Prepare Submission Information**
 **Required Information:**
-- Team name
-- Institution name
-- Team member names
+- Game changers
+- PLP Academy
+- Natalia Wambui, Metrine Regina, Anthony
 - Video link (Google Drive)
-- PDF report link (Google Drive)
-- Contact email for team leader
+- [PDF report link (Google Drive)(https://drive.google.com/file/d/1c8SrmCZBGzK9Odv2ZFjf9i3s7Iz2un5j/view?usp=drive_link)]
+- metrine.regina@gmail.com
 
 ### **Step 3: Submit Through Portal**
 1. **Access the submission portal** (link will be provided)

@@ -1,30 +1,31 @@
 # 📊 Final Test Report: CleanCity
 
 ## 1. Executive Summary
-The QA team tested core features. Several critical bugs were found in pickup requests and blog comment visibility.
+The QA Team tested core features. Several bugs and defects were found in the pickup requests, blog comment visibility and the user registration.
 
 ## 2. Test Strategy Recap
-Manual black-box testing across browsers (Chrome, edge). Focused on FRS coverage.
+Manual testing using browsers like Chrome, Edge focusing on the functional requirements coverage.
 
 ## 3. Execution Summary
-- 20 test cases executed
-- 14 passed, 6 failed
-- 15 bugs logged
+- 15 test cases found
+- 8passed, 7failed
+- 10bugs logged
 
 ## 4. Key Defects
-- Pickup request not shown in dashboard (Critical)
-- Blog comment not visible (Medium)
-- No confirmation after registration (Minor)
+- Pickup requests are not shown in the Dashboard(Critical)
+- Password recovery after a login or signing up(Critical)
+- Blog comment not visible(Medium)
+- No confirmation after registration(Minor)
 
 ## 5. Recommendations
-- Fix dashboard rendering for user pickups
-- Enable feedback after successful registration
-- Improve data visibility in profile section
+- Improve data visibility in the profile section.
+- Enable navigation after registration
+- Fix dashboard rendering user pickups
 
 ## 6. Test Metrics
 - Defect Density: 0.75 bugs per feature
 - Coverage: 100% of FRS areas
 
 ## 7. Attachments
-- Screenshots of bugs
+<img src="tests/image.png" alt="bug screenshots">
 
